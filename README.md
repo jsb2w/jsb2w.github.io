@@ -35,6 +35,8 @@
 ## 개인 공부 블로그를 운영 중 입니다.
 https://velog.io/@dldmswo1209
 
+매일 공부한 내용을 복습한다는 생각으로 올리고 있습니다.
+
 # 📝 Education
 
 고등학교 : 강원고등학교 졸업 (2015.03 ~ 2018.02)
@@ -76,14 +78,25 @@ https://velog.io/@dldmswo1209
 
 
 # Project
+
+### 심리 상담 챗봇 앱 "우리"
 <img src="https://velog.velcdn.com/images/dldmswo1209/post/108b77de-fbdd-4400-834b-5706b85b5d8a/image.png" width="50%"/>
 
 - 소개 : 심리 상담 챗봇 기반 어플 (KBSC 본선 진출 작품)
 - 담당 : 안드로이드 앱 개발 및 파이썬 Flask 서버 개발
 - 기간 : 2022.08 ~ 2022.11.05(심사 진행 중)
 
+### 카카오톡 클론 코딩
+<img src="https://velog.velcdn.com/images/dldmswo1209/post/534862f0-cf64-495f-abb7-2ddbe2bd2b8e/image.gif" width="40%"/>
 
-
+- 소개 : 카카오톡의 주요 기능을 구현해보기 위해 진행한 클론코딩 프로젝트
+- firebase 를 사용하지 않고, Node.js 서버를 직접 개발해서 안드로이드와 연동
+- 기간 : 2022.09.27 ~ 2022.10.10
   
 
+### 스마트 포트폴리오
+<img src="https://velog.velcdn.com/images/dldmswo1209/post/b7a32009-f4fe-4745-aab1-0146534e5674/image.gif" width="50%"/>
 
+- 소개 : 자신의 포트폴리오를 관리할 수 있는 앱
+- 서버 개발은 하지 않았고, SQLite 를 사용해서 구현했습니다.
+- 기간 : 2022.09.18 ~ 개발 중
