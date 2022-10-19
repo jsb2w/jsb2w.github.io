@@ -3,7 +3,7 @@
 ## Android App Developer
 <img src = "https://velog.velcdn.com/images/dldmswo1209/post/54b3448e-c736-45f8-aa26-023f50c045d4/image.JPG" width="50%"/>
 
-## 안녕하세요! 🙋 안드로이드 앱 개발을 공부 중인 대학생 입니다!
+## 안녕하세요! 🙋 안드로이드 앱 개발을 공부 중인 대학생입니다.
 
 - Name : Eun Jae Lee
 - Phone : 010-5878-1209
