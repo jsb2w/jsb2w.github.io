@@ -33,7 +33,7 @@
 
 
 ## 개인 공부 블로그를 운영 중 입니다.
-https://velog.io/@dldmswo1209
+[velog](https://velog.io/@dldmswo1209)
 
 매일 공부한 내용을 복습한다는 생각으로 올리고 있습니다.
 
