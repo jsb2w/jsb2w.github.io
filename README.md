@@ -8,7 +8,7 @@
 - Name : Eun Jae Lee
 - Phone : 010-5878-1209
 - email : dldmswo1209@gmail.com
-- Github : [github](https://github.com/EJLee1209)
+- Github : [github.com/EJLee1209](https://github.com/EJLee1209)
 - 취미 : 헬스, 음악 감상, 영화, 앱 개발
 - 군필 여부 : 대한민국 육군 병장 만기 전역
 
@@ -33,7 +33,7 @@
 
 
 ## 개인 공부 블로그를 운영 중 입니다.
-[velog](https://velog.io/@dldmswo1209)
+[개인 공부 velog](https://velog.io/@dldmswo1209)
 
 매일 공부한 내용을 복습한다는 생각으로 올리고 있습니다.
 
