@@ -77,7 +77,7 @@
 - Google Cloud Platform
 
 
-# Project
+# 🧑‍💻 Project
 
 ### 심리 상담 챗봇 앱 "우리"
 <img src="https://velog.velcdn.com/images/dldmswo1209/post/108b77de-fbdd-4400-834b-5706b85b5d8a/image.png" width="50%"/>
