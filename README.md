@@ -1,5 +1,5 @@
 # 🧑‍💻 About Me
-***   
+
 ## Android App Developer
 <img src = "https://velog.velcdn.com/images/dldmswo1209/post/54b3448e-c736-45f8-aa26-023f50c045d4/image.JPG" width="50%"/>
 
