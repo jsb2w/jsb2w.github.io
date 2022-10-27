@@ -1,5 +1,5 @@
 
-<img src = "https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-19/309935533_826568858519598_4099198034927708443_n.jpg?stp=dst-jpg_s320x320&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_cat=106&_nc_ohc=ewuHu9uMYlcAX8uGVBl&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCZD2S0UnTvwFoBnbTXQWQOQdHXBDWkePicA9Ynnn8YQQ&oe=635F333C&_nc_sid=8fd12b" width="50%"/>
+<img src = "https://postfiles.pstatic.net/MjAyMjEwMjhfMjQ1/MDAxNjY2ODgyOTYyOTE3.Y__g2KL9EO59aAlWSwaojtRKKwWxU2HvClRuqd-Dhqwg.ui4pwprJryOrWUHgm4YCn20APcR6Ut65Jk34n-JkYrMg.JPEG.jsb2w/309935533_826568858519598_4099198034927708443_n.jpg?type=w580" width="50%"/>
 
 ## 안녕하십니까, 행복을 주고싶은 IT 개발자 조성빈 입니다.
 
@@ -17,20 +17,26 @@
 
 🧡느껴왔던 사소한 일상생활을 할 수있음에 너무 감사하게 느끼며 하루하루 살고 있습니다."
 
-저는 주 5일 이상 2022년도 2학기부터 시작을 했습니다.
 
-https://www.instagram.com/sungb1n_2
+# **https://www.instagram.com/sungb1n_2**
 
-저의 인스타그램 운동 계정 입니다.
-운동을 하고 나서부터, 저에게 많은 변화들이 생기기 시작했습니다.
+저는 주 5일 이상 헬스 및 운동을 본격적으로 2022년도 2학기부터 시작을 했습니다.
 
-<img src = "[https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-19/309935533_826568858519598_4099198034927708443_n.jpg?stp=dst-jpg_s320x320&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_cat=106&_nc_ohc=ewuHu9uMYlcAX8uGVBl&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCZD2S0UnTvwFoBnbTXQWQOQdHXBDWkePicA9Ynnn8YQQ&oe=635F333C&_nc_sid=8fd12b](https://www.instagram.com/p/CiMHoQePQTGLWxV0U-Jmg1jS9atJZjXVjNrArc0/)" width="50%"/>
+<img src = "https://postfiles.pstatic.net/MjAyMjEwMjhfMjEy/MDAxNjY2ODgzMzgzMDQ5.ordyBSMrv4tVKwUKoCT8MSIinsLtS-mamSQk4HCzXTEg.vNAHNy-jLsXpPliZL1LpBW9qZ6lfpRayGV5jjx4e-wQg.PNG.jsb2w/%EC%9A%B4%EB%8F%99.png?type=w580" width="50%"/>
+
+운동을 하고 나서부터, 저에게 많은 변화들이 생기기 시작했습니다. <br>
+전에는 많이 마른몸이 컴플렉스 였던 저에게, 운동을 시작하고 나서 마음과 몸도 편안해 지는 거 같습니다.
 
 #  Army
 
 양주 5기갑여단 수색중대  <br>
 2019.01.21 ~ 2020.08.27  <br>
-병장으로 만기전역 하였습니다.
+병장으로 만기전역 하였습니다.<br>
+<img src = "https://postfiles.pstatic.net/MjAyMjEwMjhfMTgw/MDAxNjY2ODgzMjEyNTgw.huoXCmxGvcJIUPkrXJWVAtrwbjKLBsdYwNgvWKOyJS8g.N0sMsveEiSqI3NJoDiSQ3f7SyGwUOelJpVRMZ0hRW0wg.PNG.jsb2w/%EA%B5%B0%EB%8C%80.png?type=w580" width="50%"/>
+## 저는 군대에 있을 때 제 자신의 터닝 포인트가 이때 였다고 생각이 듭니다.
+위에서 말씀 드렸던 저의 신념이 이때 생기게 되었던 거 같습니다. <br>
+## 🧡 "당연하다고 느껴왔던 사소한 일상생활을 할 수있음에 너무 감사하게 느끼며 하루하루 살고 있습니다." 
+
 
 ##  🏫 학교 커리큘럼
 
