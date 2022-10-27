@@ -55,7 +55,7 @@
 제가 지금까지 수강 및, 수강을 하려고 계획중인 커리큘럼 입니다.
 
  [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsb2w)](https://github.com/jsb2w/github-readme-stats)
-# 지금은 많은 stats, git 프로필이 부족하지만 이번기회에 
+# 지금은 stats, git 프로필이 많이 부족하지만 이번기회에 
 
 열심히 git프로필을 만들어 나가는 것이 목표 입니다.
 - 개발자로서 git은 필수이며, 이번 수업을 통하여 git을 접하여 많은것을 배울 수 있다는 점이 장점인거 같습니다.
