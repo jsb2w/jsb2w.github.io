@@ -22,7 +22,7 @@
 
 저는 주 5일 이상 헬스 및 운동을 본격적으로 2022년도 2학기부터 시작을 했습니다.
 
-<img src = "https://blogfiles.pstatic.net/MjAyMjEwMjhfMjEy/MDAxNjY2ODgzMzgzMDQ5.ordyBSMrv4tVKwUKoCT8MSIinsLtS-mamSQk4HCzXTEg.vNAHNy-jLsXpPliZL1LpBW9qZ6lfpRayGV5jjx4e-wQg.PNG.jsb2w/%EC%9A%B4%EB%8F%99.png" width="50%"/>
+<img src = "https://camo.githubusercontent.com/9d5f9caeb2ad4e5ed09f27eeea4ea8e47e1750edaae0426da317d139aabfa7e6/68747470733a2f2f626c6f6766696c65732e707374617469632e6e65742f4d6a41794d6a45774d6a68664d6a45792f4d4441784e6a59324f44677a4d7a677a4d4451352e6f72647942534d72763474564b77554b6f4354384d5349696e734c74532d6d616d53516b3448437a585445672e764e41484e792d6a4c735870506c695a4c314c70425739715a366c66705261794756356a6a7834652d7751672e504e472e6a736232772f2545432539412542342545422538462539392e706e67">
 
 운동을 하고 나서부터, 저에게 많은 변화들이 생기기 시작했습니다. <br>
 전에는 많이 마른몸이 컴플렉스 였던 저에게, 운동을 시작하고 나서 마음과 몸도 편안해 지는 거 같습니다.
