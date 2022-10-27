@@ -1,7 +1,7 @@
 # 🧑‍💻 About Me
 
 ## Android App Developer
-<img src = "https://velog.velcdn.com/images/dldmswo1209/post/54b3448e-c736-45f8-aa26-023f50c045d4/image.JPG" width="50%"/>
+<img src = "https://scontent-ssn1-1.cdninstagram.com/v/t51.2885-19/309935533_826568858519598_4099198034927708443_n.jpg?stp=dst-jpg_s320x320&_nc_ht=scontent-ssn1-1.cdninstagram.com&_nc_cat=106&_nc_ohc=ewuHu9uMYlcAX8uGVBl&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfCZD2S0UnTvwFoBnbTXQWQOQdHXBDWkePicA9Ynnn8YQQ&oe=635F333C&_nc_sid=8fd12b" width="50%"/>
 
 ## 안녕하십니까, 행복을 주고싶은 IT 개발자 조성빈 입니다.
 
