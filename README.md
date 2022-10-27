@@ -3,15 +3,18 @@
 ## Android App Developer
 <img src = "https://velog.velcdn.com/images/dldmswo1209/post/54b3448e-c736-45f8-aa26-023f50c045d4/image.JPG" width="50%"/>
 
-## 안녕하세요! 🙋  <br>안드로이드 앱 개발을 공부 중인 대학생입니다.
+## 안녕하십니까, 행복을 주고싶은 IT 개발자 조성빈 입니다.
 
-- Name : Eun Jae Lee
-- Phone : 010-5878-1209
-- email : dldmswo1209@gmail.com
-- Github : [github.com/EJLee1209](https://github.com/EJLee1209)
-- 취미 : 헬스, 음악 감상, 영화, 앱 개발
-- 군필 여부 : 대한민국 육군 병장 만기 전역
+- Name : 조성빈
+- Phone : 010-2664-6428
+- email : jsb2w@naver.com
+- Github : [github.com/jsb2w](https://github.com/jsb2w)
 
+### 🙆‍♂️ 저의 신념 및 목표 
+💂🏾‍♂️ 저는 군대에서 정말 많은 것을 느꼈습니다. 
+😀 불평, 불만을 하던 제가 일상생활의 소중함을 가장 느끼게 해 주었던 곳이 군대인거 같습니다. 
+💪 지금 건강하게 걸어다닐 수 있고, 대학교도 다니며, 맛있는 것도 먹을 수 있는 이러한 당연하다고 
+🧡느껴왔던 사소한 일상생활을 할 수있음에 너무 감사하게 느끼며 하루하루 살고 있습니다."
 
 ### **좌우명**
 > **일상을 바꾸기 전에는 삶을 변화시킬 수 없다.   <br>
